@@ -5,7 +5,7 @@ Aplicacion desarrollada con Vue.js para gestionar clientes contables.
 ## Incluye
 - Login con rutas protegidas.
 - Registro y edicion de clientes.
-- Historial de IVA (crear, editar y eliminar por mes/anio).
+- Historial de IVA (crear, editar y eliminar por mes/año).
 - Datos guardados en localStorage.
 - Selector de fondos personalizados.
 

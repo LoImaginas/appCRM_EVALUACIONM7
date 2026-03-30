@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f0ff"/>
+      <stop offset="50%" stop-color="#f3e7ff"/>
+      <stop offset="100%" stop-color="#ead9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <g opacity="0.45" stroke="#d4b3ff" stroke-width="1.5">
+    <line x1="0" y1="140" x2="1600" y2="140"/>
+    <line x1="0" y1="270" x2="1600" y2="270"/>
+    <line x1="0" y1="400" x2="1600" y2="400"/>
+    <line x1="0" y1="530" x2="1600" y2="530"/>
+    <line x1="0" y1="660" x2="1600" y2="660"/>
+    <line x1="0" y1="790" x2="1600" y2="790"/>
+  </g>
+  <g>
+    <circle cx="230" cy="170" r="48" fill="#d9bfff"/>
+    <circle cx="180" cy="210" r="36" fill="#cfaeff"/>
+    <circle cx="280" cy="210" r="36" fill="#cfaeff"/>
+    <circle cx="230" cy="250" r="34" fill="#bfa0f4"/>
+    <circle cx="230" cy="210" r="20" fill="#fff7d7"/>
+  </g>
+  <g transform="translate(1180 80) scale(1.1)">
+    <circle cx="230" cy="170" r="48" fill="#f2c9ff"/>
+    <circle cx="180" cy="210" r="36" fill="#e4b7ff"/>
+    <circle cx="280" cy="210" r="36" fill="#e4b7ff"/>
+    <circle cx="230" cy="250" r="34" fill="#d3a3f2"/>
+    <circle cx="230" cy="210" r="20" fill="#fff7d7"/>
+  </g>
+  <g transform="translate(150 560)">
+    <path d="M0 220 C40 120 120 40 200 20 C280 0 360 70 390 150" fill="none" stroke="#9a70d8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="130" cy="65" r="35" fill="#d3b4ff"/>
+    <circle cx="95" cy="95" r="24" fill="#c5a2ef"/>
+    <circle cx="165" cy="95" r="24" fill="#c5a2ef"/>
+    <circle cx="130" cy="105" r="16" fill="#fff0c6"/>
+  </g>
+  <g transform="translate(1100 540)">
+    <path d="M0 220 C40 120 120 40 200 20 C280 0 360 70 390 150" fill="none" stroke="#9a70d8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="130" cy="65" r="35" fill="#f1b7e6"/>
+    <circle cx="95" cy="95" r="24" fill="#e8a4dc"/>
+    <circle cx="165" cy="95" r="24" fill="#e8a4dc"/>
+    <circle cx="130" cy="105" r="16" fill="#fff0c6"/>
+  </g>
+</svg>
